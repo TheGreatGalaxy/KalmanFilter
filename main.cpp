@@ -119,7 +119,7 @@ double mean_filter(vector<double> &vec, double data){
     return avg;
 }
 
-
+//add some annotations
 int main(int argc, char* argv[]) {
     // check_arguments(argc, argv);
 
