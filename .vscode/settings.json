@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/dashing/lib/python3.6/site-packages",
+        "/home/guangtong/project/pycharm/second.pytorch",
+        ""
+    ],
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools"
+}

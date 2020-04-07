@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/guangtong/project/git/KalmanFilter/build",
+  "command": "/usr/bin/g++-7   -I/usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/ukf.dir/main.cpp.o -c /home/guangtong/project/git/KalmanFilter/main.cpp",
+  "file": "/home/guangtong/project/git/KalmanFilter/main.cpp"
+},
+{
+  "directory": "/home/guangtong/project/git/KalmanFilter/build",
+  "command": "/usr/bin/g++-7   -I/usr/include/eigen3  -g   -std=gnu++11 -o CMakeFiles/ukf.dir/ukf_cv.cpp.o -c /home/guangtong/project/git/KalmanFilter/ukf_cv.cpp",
+  "file": "/home/guangtong/project/git/KalmanFilter/ukf_cv.cpp"
+}
+]

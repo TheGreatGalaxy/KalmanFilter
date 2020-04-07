@@ -124,11 +124,11 @@ int main(int argc, char* argv[]) {
     // check_arguments(argc, argv);
 
     // string in_file_name_ = argv[1];
-    string in_file_name_ = "/home/guangtong/project/ukf-code/data/data_synthetic.txt";
+    string in_file_name_ = "data/data_synthetic.txt";
     ifstream in_file_(in_file_name_.c_str(), ifstream::in);
 
     // string out_file_name_ = argv[2];
-    string out_file_name_= "/home/guangtong/project/ukf-code/data/output1.txt";
+    string out_file_name_= "data/output1.txt";
     ofstream out_file_(out_file_name_.c_str(), ofstream::out);
 
     check_files(in_file_, in_file_name_, out_file_, out_file_name_);
