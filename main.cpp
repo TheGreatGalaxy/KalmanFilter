@@ -4,11 +4,16 @@
 #include <iostream>
 #include <sstream>
 #include <stdlib.h>
-// #include <climit>
 #include "Eigen/Dense"
 #include "ground_truth_package.h"
 #include "measurement_package.h"
 #include "ukf_cv.h"
+
+// cd build && cmake ..
+/**
+ * @brief: just build a KalmanFilter containing KF,EKF,UKF with motion model CV,CTRV ,etc.
+ * but there is many things to do.
+ */ 
 
 using namespace std;
 using Eigen::MatrixXd;
